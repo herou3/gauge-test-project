@@ -1,0 +1,6 @@
+# Default ignored files
+.gauge
+.idea
+logs
+reports
+/httpRequests/
